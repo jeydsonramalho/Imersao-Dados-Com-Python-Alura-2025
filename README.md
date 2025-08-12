@@ -39,6 +39,7 @@ O projeto foi desenvolvido no Google Colab utilizando bibliotecas como Pandas, M
 	•	Criação de interface interativa para análise de dados.
 	•	Aplicação de filtros dinâmicos e visualização de gráficos em tempo real.
 	•	Construção de uma ferramenta prática para apresentação e exploração das informações.
+ • Acesse o Dashboard Aqui - https://imersao-dados-com-python-alura--2025.streamlit.app/
 
 ⸻
 
